@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@johnnycoruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@johnnycoruiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johnnatanruizsanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="johnnatanruizsanchez" height="30" width="40" /></a>
-<a href="https://instagram.com/johnnatandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="johnnatandev" height="30" width="40" /></a>
+Twitter: <a href="https://twitter.com/@johnnycoruiz" target="blank">@johnnycoruiz</a>
+Github: <a href="https://linkedin.com/in/johnnatanruizsanchez" target="blank">johnnatanruizsanchez</a>
+Linked In: <a href="https://instagram.com/johnnatandev" target="blank">johnnatandev</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

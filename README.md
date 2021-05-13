@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnnatan Ruiz</h1>
-<h3 align="center">Full-Stack Developer with more than 3 years of experience in software.</h3>
+<h3 align="center">Full-Stack Developer with more than 3 years of experience in software development.</h3>
 
 - 🔭 I’m currently working on **my dad online store**
 
@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Twitter: <a href="https://twitter.com/@johnnycoruiz" target="blank">@johnnycoruiz</a>
-Github: <a href="https://linkedin.com/in/johnnatanruizsanchez" target="blank">johnnatanruizsanchez</a>
-Linked In: <a href="https://instagram.com/johnnatandev" target="blank">johnnatandev</a>
+Twitter: <a href="https://twitter.com/@johnnatandev" target="blank">@johnnatandev</a>
+Linked In: <a href="https://linkedin.com/in/johnnatandev" target="blank">johnnatandev</a>
+Instagram: <a href="https://instagram.com/johnnatandev" target="blank">johnnatandev</a>
+Facebook: <a href="https://www.facebook.com/johnnatandev" target="blank">johnnatandev</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

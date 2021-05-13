@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma and Zeplin**
 
-- 👨‍💻 All of my projects are available at [bit.ly/johnnatanDEV](bit.ly/johnnatanDEV)
+- 👨‍💻 All of my projects are available in my [johnnatandev.website](portfolio)
 
 - 💬 Ask me about **APIs and Data Analysis**
 

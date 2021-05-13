@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my dad online store**
 
-- 🌱 I’m currently learning **Figma and Zeplin**
+- 🌱 I’m currently learning **Figma and Zeplin** and **Personal Brand**
 
 - 👨‍💻 All of my projects are available in my [johnnatandev.website](portfolio)
 

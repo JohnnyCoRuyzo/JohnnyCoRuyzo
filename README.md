@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma and Zeplin** and **Personal Brand**
 
-- 👨‍💻 All of my projects are available in my [portfolio](johnnatandev.website)
+- 👨‍💻 All of my projects are available in my [portfolio](https://johnnatandev.website)
 
 - 💬 Ask me about **APIs and Data Analysis**
 

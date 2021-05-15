@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **APIs and Data Analysis**
 
-- 📫 How to reach me **johnnyruyzo@gmail.com**
+- 📫 How to reach me **info@johnnatandev.website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

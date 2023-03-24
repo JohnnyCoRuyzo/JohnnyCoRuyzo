@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnnatan Ruiz</h1>
 <h3 align="center">Full-Stack Developer with more than 5 years of experience in software development.</h3>
 
-- 🔭 I’m currently working as a **CTO** of **Excellent Execution**. A company i started with two partners.
+- 🔭 I’m currently the **CTO** of **Excellent Execution**, a company I started with two partners. My full time job is as a software senior engineer at **Amadeus IT GROUP**.
 
 - 🌱 I’m an expert developer on .NET applications using the best practices, SOLID principles, KISS, DRY, YAGNI.
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Twitter: <a href="https://twitter.com/@johnnatandev" target="blank">@johnnatandev</a>
-Linked In: <a href="https://linkedin.com/in/johnnatandev" target="blank">johnnatandev</a>
+Linked In: <a href="https://linkedin.com/in/johnnatannicolasruizsanchez" target="blank">johnnatandev</a>
 Instagram: <a href="https://instagram.com/johnnatandev" target="blank">johnnatandev</a>
 Facebook: <a href="https://www.facebook.com/johnnatandev" target="blank">johnnatandev</a>
 </p>

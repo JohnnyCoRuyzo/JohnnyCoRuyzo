@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Johnnatan Ruiz</h1>
-<h3 align="center">Full-Stack Developer with more than 3 years of experience in software development.</h3>
+<h3 align="center">Full-Stack Developer with more than 5 years of experience in software development.</h3>
 
-- 🔭 I’m currently working on **my dad online store**
+- 🔭 I’m currently working as a **CTO** of **Excellent Execution**. A company i started with two partners.
 
-- 🌱 I’m currently learning **Figma and Zeplin** and **Personal Brand**
+- 🌱 I’m an expert developer on .NET applications using the best practices, SOLID principles, KISS, DRY, YAGNI.
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://johnnatandev.website)
 
-- 💬 Ask me about **APIs and Data Analysis**
+- 💬 Ask me about **APIs, Data Analysis, Open Ai Apis integration, Whatsapp integration, .NET or Angular**
 
-- 📫 How to reach me **info@johnnatandev.website**
+- 📫 How to reach me at my personal email **info@johnnatandev.website** or my corporate email **jruiz@exe.com.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

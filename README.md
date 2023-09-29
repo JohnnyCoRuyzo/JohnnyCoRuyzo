@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **APIs, Data Analysis, Open Ai Apis integration, Whatsapp integration, .NET or Angular**
 
-- 📫 How to reach me at my personal email **johnnyruyzo@gmail.com** or my corporate email **jruiz@exe.com.co**
+- 📫 How to reach me at my personal email **johnnyruyzo@gmail.com** or my corporate email **j.ruiz@exe.com.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
